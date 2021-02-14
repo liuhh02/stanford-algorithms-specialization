@@ -11,3 +11,7 @@ Date Started: 14 February 2021
 The problem set and programming assignment solutions are uploaded only for reference purposes. Please attempt the quizzes and programming assignments yourself and only look at the explanations if you find that you still can't understand it after consulting the discussion forums and reviewing the lecture content.
 
 ## Quick Access
+### [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%201)
+Week 1:
+* [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%201/assignment1.cpp)
+* [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%201/Problem%20Set%201.png)
