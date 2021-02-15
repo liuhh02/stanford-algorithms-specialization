@@ -19,13 +19,11 @@ int findMedian(int arr[], int l, int r) {
     int a = arr[l];
     int b = arr[pos];
     int c = arr[r];
-    if (a > b && a < c) {
-        return l;
-    } else if (b > a && b < c) {
-        return pos;
-    } else {
-        return r;
-    }
+    int maxi = max({a, b, c});
+    int mini = min({a, b, c});
+    if (a != maxi && a != mini) return l;
+    else if (b != maxi && b != mini) return pos;
+    else return r;
 }
 
 int partition(int arr[], int l, int r, int pi) {
@@ -50,7 +48,7 @@ int quickSort(int arr[], int l, int r) {
     // int position = partition(arr, l, r, r); 
     // median element is the pivot element:
     int position = partition(arr, l, r, findMedian(arr, l, r));
-    int left = quickSort(arr, 0, position-1);
+    int left = quickSort(arr, l, position-1);
     int right = quickSort(arr, position+1, r);
     return left+right+r-l;
 }
@@ -60,10 +58,10 @@ int main() {
     int arr[arr_size];
     ifstream file("QuickSort.txt");
     string str;
-    int i = 0;
+    int k = 0;
     while (getline(file, str)) {
-        arr[i] = stoi(str);
-        i++;
+        arr[k] = stoi(str);
+        k++;
     }
 
     cout << quickSort(arr, 0, arr_size-1) << endl;
