@@ -19,13 +19,11 @@ int findMedian(int arr[], int l, int r) {
     int a = arr[l];
     int b = arr[pos];
     int c = arr[r];
-    if (a > b && a < c) {
-        return l;
-    } else if (b > a && b < c) {
-        return pos;
-    } else {
-        return r;
-    }
+    int maxi = max({a, b, c});
+    int mini = min({a, b, c});
+    if (a != maxi && a != mini) return l;
+    else if (b != maxi && b != mini) return pos;
+    else return r;
 }
 
 int partition(int arr[], int l, int r, int pi) {
@@ -50,7 +48,7 @@ void quickSort(int arr[], int l, int r) {
     // int position = partition(arr, l, r, r); 
     // median element is the pivot element:
     int position = partition(arr, l, r, findMedian(arr, l, r)); 
-    quickSort(arr, 0, position-1);
+    quickSort(arr, l, position-1);
     quickSort(arr, position+1, r);
 }
 
