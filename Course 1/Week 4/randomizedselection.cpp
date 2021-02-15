@@ -26,7 +26,8 @@ int partition(int arr[], int l, int r, int pi) {
 // NOTE that i indexing starts from 1 whereas index of partition position starts from 0
 int rSelect(int arr[], int l, int r, int i) {
     if (r == l) return arr[l];
-    int position = partition(arr, l, r, r);
+    int pi = rand() % r + 1;
+    int position = partition(arr, l, r, pi);
     int k = position-l+1;
     if (i == k) return arr[position];
     else if (i < k) {
@@ -41,5 +42,5 @@ int main() {
     int arr[] = { 3, 2, 10, 6, 7, 1, 9, 5, 4, 8 };
     int arr_size = sizeof(arr) / sizeof(arr[0]);
 
-    cout << rSelect(arr, 0, arr_size-1, 5);
+    cout << rSelect(arr, 0, arr_size-1, 9);
 }
