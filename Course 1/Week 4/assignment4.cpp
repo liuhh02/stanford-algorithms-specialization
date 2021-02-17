@@ -91,8 +91,8 @@ int main() {
     string c;
     iss >> c;
     int i = stoi(c);
-    while (iss >> val) {
-        E++;
+    while (iss >> val) { 
+      if (val > i) E++; // so each edge only gets counted once
     }
   } 
   file.clear();
@@ -109,13 +109,15 @@ int main() {
     iss >> c2;
     int vertex = stoi(c2);
     while (iss >> val2) {
-      graph->edge[edgeCount].src = vertex-1; 
-      graph->edge[edgeCount].dest = val-1; 
-      edgeCount++;
+      if (val2 > vertex) {
+        graph->edge[edgeCount].src = vertex-1; 
+        graph->edge[edgeCount].dest = val2-1; 
+        edgeCount++;
+      } 
     }
   }
   int minContractions = 1000000;
-  for (int i = 0; i < 200000; i++) {
+  for (int i = 0; i < 200; i++) {
     int calculated = randomContraction(graph);
     if (calculated < minContractions) {
       minContractions = calculated;
