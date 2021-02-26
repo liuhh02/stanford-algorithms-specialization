@@ -33,4 +33,5 @@ Week 4:
 ### [Course 2: Graph Search, Shortest Paths, and Data Structures](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%202)
 #### Started: 25 February 2021
 Week 1:
+* [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%202/Week%201/assignment1.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%202/Week%201/Problem%20Set%201.png)
