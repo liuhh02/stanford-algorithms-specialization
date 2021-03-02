@@ -12,7 +12,7 @@ The problem set and programming assignment solutions are uploaded only for refer
 
 ## Quick Access
 ### [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%201)
-#### Completed: 17 February 2021
+#### Progress: 14 February 2021 - 17 February 2021 (Completed)
 Week 1:
 * [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%201/assignment1.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%201/Problem%20Set%201.png)
@@ -31,7 +31,7 @@ Week 4:
 * [Final Exam](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%204/Final%20Exam.png)
 
 ### [Course 2: Graph Search, Shortest Paths, and Data Structures](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%202)
-#### Started: 25 February 2021
+#### Progress: 25 February 2021 - 2 March 2021 (Completed)
 Week 1:
 * [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%202/Week%201/assignment1.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%202/Week%201/Problem%20Set%201.png)
@@ -45,5 +45,6 @@ Week 3:
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%202/Week%203/Problem%20Set%203.png)
 
 Week 4:
+* [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%202/Week%204/assignment4.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%202/Week%204/Problem%20Set%204.png)
 * [Final Exam](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%202/Week%204/Final%20Exam.png)
