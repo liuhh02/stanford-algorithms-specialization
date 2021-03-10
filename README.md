@@ -52,4 +52,8 @@ Week 4:
 ### [Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%203/Week%201)
 #### Progress: 9 March 2021 -
 Week 1:
+* Programming Assignment
+    * [Q1](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%201/assignment1_q1.cpp)
+    * [Q2](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%201/assignment1_q2.cpp)
+    * [Q3](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%201/assignment1_q3.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%201/Problem%20Set%201.png)
