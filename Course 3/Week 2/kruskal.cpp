@@ -3,6 +3,8 @@ using namespace std;
 
 #define edge pair<int, int>
 
+// Implementation of Kruskal's Minimum Spanning Tree Algorithm using Union Find
+
 class Graph {
     private:
     vector<pair<int, edge>> G;
