@@ -57,3 +57,7 @@ Week 1:
     * [Q2](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%201/assignment1_q2.cpp)
     * [Q3](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%201/assignment1_q3.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%201/Problem%20Set%201.png)
+
+Week 2:
+* [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%202/assignment2_q1.cpp)
+* [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%202/Problem%20Set%202.png)
