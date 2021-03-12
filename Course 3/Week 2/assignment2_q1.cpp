@@ -48,8 +48,14 @@ int Graph::find(int i) {
 }
 
 void Graph::Union(int u, int v) {
-    if (rank[u] > rank[v]) parent[v] = parent[u];
-    else if (rank[v] > rank[u]) parent[u] = parent[v];
+    if (rank[u] > rank[v]) {
+        parent[v] = parent[u];
+        rank[u]++;
+    }
+    else if (rank[v] > rank[u]) {
+        parent[u] = parent[v];
+        rank[v]++;
+    }
     else {
         parent[v] = parent[u];
         rank[u]++;
@@ -104,5 +110,4 @@ int main() {
         g.addEdge(a-1, b-1, wt);
     }
     g.clustering(4);
-    // 1641
 }
