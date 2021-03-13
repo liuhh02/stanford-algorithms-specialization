@@ -61,3 +61,10 @@ Week 1:
 Week 2:
 * [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%202/assignment2_q1.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%202/Problem%20Set%202.png)
+
+Week 3:
+* Programming Assignment
+    * [Q1](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%203/assignment3_q1q2.cpp)
+    * [Q2](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%203/assignment3_q1q2.cpp)
+    * [Q3](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%203/assignment3_q3.cpp)
+* [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%203/Problem%20Set%203.png)
