@@ -75,3 +75,9 @@ Week 4:
     * [Q2](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%204/assignment4_q2.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%204/Problem%20Set%204.png)
 * [Final Exam](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%203/Week%204/Final%20Exam.png)
+
+### [Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%204)
+#### Progress: 5 April 2021 - 
+Week 1:
+* [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%204/Week%201/assignment1.cpp)
+* [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%204/Week%201/Problem%20Set%201.png)
