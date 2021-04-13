@@ -87,3 +87,5 @@ Week 2:
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%204/Week%202/Problem%20Set%202.png)
 
 Week 3:
+* [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%204/Week%203/assignment3.cpp)
+* [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%204/Week%203/Problem%20Set%203.png)
