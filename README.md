@@ -18,19 +18,23 @@ The problem set and programming assignment solutions are uploaded only for refer
 Week 1:
 * [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%201/assignment1.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%201/Problem%20Set%201.png)
+* [Problem Set (hide answers)](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%201/problemset1hideanswers.png)
 
 Week 2:
 * [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%202/assignment2.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%202/Problem%20Set%202.png)
+* [Problem Set (hide answers)](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%202/problemset2hideanswers.png)
 
 Week 3:
 * [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%203/assignment3.cpp)
-* [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%203/Problem%20Set%203.png)
+* [Problem Set (hide answers)](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%203/problemset3hideanswers.png)
 
 Week 4:
 * [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%204/assignment4.cpp)
 * [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%204/Problem%20Set%204.png)
+* [Problem Set (hide answers)](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%204/problemset4hideanswers.png)
 * [Final Exam](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%204/Final%20Exam.png)
+* [Final Exam (hide answers)](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%204/finalexamhideanswers.png)
 
 ### [Course 2: Graph Search, Shortest Paths, and Data Structures](https://github.com/liuhh02/stanford-algorithms-specialization/tree/main/Course%202)
 #### Progress: 25 February 2021 - 2 March 2021 (Completed)
