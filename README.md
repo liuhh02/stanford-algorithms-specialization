@@ -27,6 +27,7 @@ Week 2:
 
 Week 3:
 * [Programming Assignment](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%203/assignment3.cpp)
+* [Problem Set](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%203/Problem%20Set%203.png)
 * [Problem Set (hide answers)](https://github.com/liuhh02/stanford-algorithms-specialization/blob/main/Course%201/Week%203/problemset3hideanswers.png)
 
 Week 4:
